@@ -1,0 +1,21 @@
+2024-11-22 11:54:51,168 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doc': '{"name":"Muskan","owner":"Administrator","creation":"2024-11-22 11:54:21.655308","modified":"2024-11-22 11:54:21.655308","modified_by":"Administrator","docstatus":0,"idx":0,"library_member":"Muskan","full_name":"Muskan  Singh","from_date":"2024-11-01","to_date":null,"paid":0,"amended_from":null,"doctype":"Library Membership","__last_sync_on":"2024-11-22T06:24:21.705Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-22 11:54:58,522 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doc': '{"name":"Muskan","owner":"Administrator","creation":"2024-11-22 11:54:21.655308","modified":"2024-11-22 11:54:21.655308","modified_by":"Administrator","docstatus":0,"idx":0,"library_member":"Muskan","full_name":"Muskan  Singh","from_date":"2024-11-01","to_date":null,"paid":0,"amended_from":null,"doctype":"Library Membership","__last_sync_on":"2024-11-22T06:24:21.705Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-22 11:56:25,775 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doc': '{"name":"Muskan","owner":"Administrator","creation":"2024-11-22 11:54:21.655308","modified":"2024-11-22 11:54:21.655308","modified_by":"Administrator","docstatus":0,"idx":0,"library_member":"Muskan","full_name":"Muskan  Singh","from_date":"2024-11-01","to_date":null,"paid":0,"amended_from":null,"doctype":"Library Membership","__last_sync_on":"2024-11-22T06:24:21.705Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-22 11:58:04,296 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-11-22 11:58:44,811 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doc': '{"name":"Muskan","owner":"Administrator","creation":"2024-11-22 11:54:21.655308","modified":"2024-11-22 11:54:21.655308","modified_by":"Administrator","docstatus":0,"idx":0,"library_member":"Muskan","full_name":"Muskan  Singh","from_date":"2024-11-01","paid":0,"doctype":"Library Membership","__last_sync_on":"2024-11-22T06:28:41.329Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-11-22 11:59:06,127 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-11-22 12:01:17,492 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
